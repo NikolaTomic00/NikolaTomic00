@@ -6,18 +6,21 @@
 
 ## 🚀 Tech Stack
 
-HTML • CSS • JavaScript • TypeScript • React • Tailwind CSS • Node.js • Express.js • MongoDB • PostgreSQL • MERN Stack • PERN Stack
-
+•HTML
+• CSS
+• JavaScript
+• TypeScript 
+• React
+• Tailwind CSS 
+• Node.js 
+• Express.js 
+• MongoDB 
+• PostgreSQL 
 ---
 
-## 💼 Projects
-
-### ePozivnice
-
-Modern digital invitation platform for weddings and events with RSVP confirmations, guest management, Google Maps integration and personalized event pages.
+Founder & Owner of ePozivnice — a profitable freelance digital invitation platform for weddings and events featuring RSVP confirmations, guest management, Google Maps integration and personalized event pages.
 
 🌐 https://epozivnice.online
 
 ---
 
-Always learning, building and improving.

@@ -26,5 +26,5 @@ Whether it’s creating a professional website, developing a custom web applicat
 
 ## 📫 Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/nikolatomic00
+- LinkedIn: www.linkedin.com/in/nikolatomic00
 - Email: tomicnikolaft@gmail.com
